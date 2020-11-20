@@ -3,7 +3,7 @@
 ## Overview
 Pewlett-Hackard has gotten a little behind the times and requested a database to analysis its current staff and to help determine how many employees will be ready for retirement in the "Silver Tsunami" and out of those how many will be able to mentor incoming staff to fill the between entry level employees and senior level employees.
 
-##Challenges and Solutions
+## Challenges and Solutions
 There are three main questions that needed to be answered.
 - How many Senior Level employees will be eligible for retirement and from what departments?
 - What job titles will lose the greatest number?
